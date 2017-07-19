@@ -8,10 +8,10 @@ Les expressions régulières constituent un système très puissant et très rap
 il existe deux types d'expressions régulières :
 
     POSIX :  son principal et gros défaut je dirais, c'est que ce « langage » est plus lent que PCRE ; 
-		Il faut savoir cependant           que MySQL ne 	comprend que les regex en langage POSIX, et pas PCRE
+	Il faut savoir cependant que MySQL ne comprend que les regex en langage POSIX, et pas PCRE
 
     PCRE : ces expressions régulières sont issues d'un autre langage (le Perl). 
-		Considérées comme un peu plus complexes, elles sont surtout 		   bien plus rapides et performantes.
+	Considérées comme un peu plus complexes, elles sont surtout bien plus rapides et performantes.
 
 
 Les fonctions qui nous intéressent:
