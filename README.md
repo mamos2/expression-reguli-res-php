@@ -52,7 +52,7 @@ Les fonctions qui nous intéressent:
 
 
     preg_quote ;	 Protection des caractères spéciaux des expressions rationnelles. 
-		les caractères spéciaux qui seront protégés sont les 				 suivants : . \ + * ? [ ^ ] $ ( ) { } = ! < > | : -
+		les caractères spéciaux qui seront protégés sont les suivants : . \ + * ? [ ^ ] $ ( ) { } = ! < > | : -
 
 
  
